@@ -12,4 +12,4 @@ DSG™ ก้าวข้ามขีดจำกัดของ AI ทั่ว
 3. **Privacy First:** ข้อมูลไม่เคยถูกส่งออกภายนอก ปลอดภัยจากการดักฟัง 100%
 
 ---
-*Status: Proprietary Algorithm - Available for Partner PoC (200 Credits)*
+*Status: Proprietary Algorithm - Available for Partner PoC (50 Credits)*
