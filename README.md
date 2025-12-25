@@ -12,4 +12,4 @@
 * **Proprietary Harmonic Filter:** ปกป้อง Source Code และ IP 100%
 
 ---
-*Confidentiality Notice: 200 Trial Credits / 24 Hours.*
+*Confidentiality Notice: 50 Trial Credits / 24 Hours.*
